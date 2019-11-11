@@ -1,13 +1,1 @@
-{
-    epodId:1,
-    consignment:[
-      {
-        itemCode:397984,
-        description:"salad",
-        quantity:18
-      },
-      {
-        itemCode:356754,
-        description:"tomato",
-        quantity:2}
-    ]}
+{"epodId":1,"consignment":[{"itemCode":397984,"description":"salad","quantity":18},{"itemCode":356754,"description":"tomato","quantity":2}]}
